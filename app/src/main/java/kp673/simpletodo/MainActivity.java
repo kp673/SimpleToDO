@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
         view = findViewById(R.id.view);
 
         load();
+        items.add("Buy Milk"):
 
         ItemsAdapter.OnLongClickListener onLongClickListener = new ItemsAdapter.OnLongClickListener(){
             @Override
